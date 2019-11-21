@@ -4,6 +4,7 @@
 This program logs all key presses and saves them into a file stored in ``` /opt/key.log ``` and sends an email to you<br>
 Run on startup (optional)<br>
 User will not see any windows or anything on the screen when running the program.<br>
+#### This program uses the US keyboard for logging
 
 ## Requirements
 * internet connection 
